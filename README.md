@@ -1,3 +1,3 @@
 # Basic Calculator
 
-![Preview Image](https://github.com/ldss95/calculator/Preview.png)
+![Preview Image](https://raw.githubusercontent.com/ldss95/calculator/master/Preview.png)
